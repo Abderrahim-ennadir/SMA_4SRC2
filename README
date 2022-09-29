@@ -8,11 +8,11 @@ Abderrahim Ennadir
 Maxime Habermann
 
 Il comprend:
-  -un script qui affiche la liste des nombres premiers entre 1 et 100 000
+  -un script qui affiche la liste des nombres premiers entre une plage de nombre choisie par l'utilisateur (entre 1 et 100, ou 100 000...)
   -un script qui permet de cloner un repository
   -Un script qui laisse libre cours à notre imagination
     * script qui ajoute des valeurs entrées par l'utilisateur dans une liste puis l'affiche
-  -modifier du premier script avec les informations saisit par l'utilisateur
+  -modification du script d'affichage des nombres premiers, cette fois affiche uniquement les nombres premiers entre 1 et 1 million
   
 Workflow choisi : branches de fonctionnalités
 
