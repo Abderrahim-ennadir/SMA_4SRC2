@@ -3,3 +3,6 @@
 
 liste = []
 valeur = "start"
+
+while (valeur != ""):
+    print("Veuillez entrer une valeur :", end = " ")
