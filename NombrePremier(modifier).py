@@ -8,4 +8,4 @@ for n in range(min,max + 1):
            if (n % i) == 0:
                break
        else:
-           print(n)
+           print("Nombre premier :", n)
