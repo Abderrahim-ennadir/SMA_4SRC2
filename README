@@ -13,3 +13,9 @@ Il comprend:
   -Un script qui laisse libre cours à notre imagination
   -modifier du premier script avec les informations saisit par l'utilisateur
   
+Workflow choisi : branches de fonctionnalités
+
+Logique souhaitée (pas forcément appliquée correctement) :
+- 1 branche principale par projet (par script)
+- Pour chaque branche principale, 1 branche pour que chacun puisse travailler sur une fonctionnalité et faire ses commits sans déranger les autres
+- Vérification de la compatibilité, si ok approbation de la fonctionnalité et fusion avec la branche principale
