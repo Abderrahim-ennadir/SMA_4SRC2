@@ -1,7 +1,7 @@
 
 #afficher les nombres premiers
-min = int(input("Entrez le min : "))
-max = int(input("Entrez le max : "))
+min = 1
+max = 1000000
 for n in range(min,max + 1):
    if n > 1:
        for i in range(2,n):
